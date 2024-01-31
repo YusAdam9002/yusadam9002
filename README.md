@@ -11,4 +11,4 @@
 </div>
 
 ## Previous Experience 📒
-[![My Skills](https://skillicons.dev/icons?i=,css,html,java,js,nodejs,react,figma,androidstudio,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=css,html,java,js,nodejs,react,figma,androidstudio,python)](https://skillicons.dev)
